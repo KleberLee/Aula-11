@@ -4,7 +4,7 @@
 <img width="1061" height="631" alt="Captura de tela 2026-04-20 193037" src="https://github.com/user-attachments/assets/355ec5d0-207e-442a-8a72-c8f1af22ca43" />
 
 ### 2. Quadro Comparativo de Dispositivos
-Hub
+**Hub**
 
 **Função principal:**
 O hub é o mais simples. Ele recebe um dado e envia pra todos os dispositivos conectados, sem saber quem é o destino.
