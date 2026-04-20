@@ -84,3 +84,6 @@ Exemplo de uso:
 Internet residencial
 Empresas conectando várias redes
 Provedores de internet
+
+### 3. Meios de Transmissão
+<img width="1088" height="708" alt="Captura de tela 2026-04-20 193504" src="https://github.com/user-attachments/assets/4503767b-cfdc-4a52-9d58-9e4efdc635e1" />
