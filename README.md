@@ -1,25 +1,5 @@
 # Aula 11 – Redes de Computadores: Topologias, Dispositivos e Meios
 
-## Objetivo
-Primeiro, a organização física da rede é a forma como os dispositivos estão conectados no mundo real. Isso envolve as chamadas topologias, como estrela (um ponto central conectando tudo), barramento (todos ligados em um único cabo), anel (em formato circular) e malha (todo mundo conectado com todo mundo). Aqui entram também os cabos, roteadores, switches e tudo que você consegue “ver e tocar”.
-
-Já a organização lógica da rede é como os dados circulam dentro dessa estrutura física. Ou seja, não importa só como está conectado, mas como a informação trafega. Isso envolve protocolos (como o TCP/IP), endereçamento IP e regras de comunicação que garantem que a mensagem saia de um ponto e chegue corretamente ao destino.
-
-Agora, sobre os principais dispositivos:
-
-Roteador (Router): conecta redes diferentes e direciona os dados.
-Switch: conecta dispositivos dentro da mesma rede local.
-Hub: versão mais simples do switch (hoje quase não se usa).
-Modem: faz a ligação com a internet.
-Access Point: permite conexão sem fio (Wi-Fi).
-
-E por fim, os meios de transmissão, que são os caminhos por onde os dados passam:
-
-Cabos de par trançado (Ethernet): muito comum em redes locais.
-Fibra óptica: altíssima velocidade e estabilidade.
-Ondas de rádio (Wi-Fi): conexão sem fio.
-Outros: como satélite e micro-ondas.
-
 ### 1. Diagramas de Topologias
 <img width="1061" height="631" alt="Captura de tela 2026-04-20 193037" src="https://github.com/user-attachments/assets/355ec5d0-207e-442a-8a72-c8f1af22ca43" />
 
@@ -87,3 +67,4 @@ Provedores de internet
 
 ### 3. Meios de Transmissão
 <img width="1088" height="708" alt="Captura de tela 2026-04-20 193504" src="https://github.com/user-attachments/assets/4503767b-cfdc-4a52-9d58-9e4efdc635e1" />
+
