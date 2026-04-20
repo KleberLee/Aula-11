@@ -21,7 +21,7 @@ Ondas de rádio (Wi-Fi): conexão sem fio.
 Outros: como satélite e micro-ondas.
 
 ### 1. Diagramas de Topologias
-[Topologia.pdf](https://github.com/user-attachments/files/26913191/Topologia.pdf)
+![Topologia.pdf](https://github.com/user-attachments/files/26913191/Topologia.pdf)
 
 ### 2. Quadro Comparativo de Dispositivos
 Hub
