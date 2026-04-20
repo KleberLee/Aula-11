@@ -9,57 +9,57 @@ Hub
 Função principal:
 O hub é o mais simples. Ele recebe um dado e envia pra todos os dispositivos conectados, sem saber quem é o destino.
 
-Vantagens:
+**Vantagens:**
 
 Barato
 Fácil de usar
 
-Limitações:
+**Limitações:**
 
 Gera muito tráfego desnecessário (todo mundo recebe tudo)
 Baixa segurança
 Pode causar lentidão na rede
 
-Exemplo de uso:
+*Exemplo de uso:**
 
 Redes antigas ou ambientes bem simples (hoje quase não se usa mais)
 Switch
 
-Função principal:
+**Função principal:**
 O switch já é mais inteligente. Ele envia os dados apenas para o dispositivo correto, usando o endereço físico (MAC).
 
-Vantagens:
+**Vantagens:**
 
 Muito mais rápido que o hub
 Reduz tráfego na rede
 Mais seguro
 
-Limitações:
+**Limitações:**
 
 Não conecta redes diferentes
 Pode ser mais caro que hub
 
-Exemplo de uso:
+**Exemplo de uso:**
 
 Redes de empresas
 LANs (redes locais em casas, escolas, escritórios)
 Roteador (Router)
 
-Função principal:
+**Função principal:**
 O roteador conecta redes diferentes (por exemplo, sua casa com a internet) e decide o melhor caminho para os dados.
 
-Vantagens:
+**Vantagens:**
 
 Permite acesso à internet
 Gerencia tráfego entre redes
 Pode oferecer Wi-Fi e segurança (firewall)
 
-Limitações:
+**Limitações:**
 
 Mais complexo de configurar
 Custo maior
 
-Exemplo de uso:
+**Exemplo de uso:**
 
 Internet residencial
 Empresas conectando várias redes
